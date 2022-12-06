@@ -1,17 +1,17 @@
 graphs:
   data:
-  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v0/graphs/graphs0.gz
-  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v0/graphs/graphs1.gz
-  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v0/graphs/graphs2.gz
+  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v1/graphs/graphs0.gz
+  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v1/graphs/graphs1.gz
+  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v1/graphs/graphs2.gz
   shape:
   - 5
   - 5
   type: u1
 inputs:
   data:
-  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v0/inputs/inputs0.gz
-  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v0/inputs/inputs1.gz
-  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v0/inputs/inputs2.gz
+  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v1/inputs/inputs0.gz
+  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v1/inputs/inputs1.gz
+  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v1/inputs/inputs2.gz
   shape:
   - 7
   - 7
@@ -19,8 +19,8 @@ inputs:
   type: u1
 labels:
   data:
-  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v0/labels/labels0.gz
-  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v0/labels/labels1.gz
-  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v0/labels/labels2.gz
+  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v1/labels/labels0.gz
+  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v1/labels/labels1.gz
+  - https://github.com/Oelin/distributed-cbs-dataset/raw/main/v1/labels/labels2.gz
   shape: []
   type: u1
